@@ -9,11 +9,20 @@ Brain.
 
 1. **Source of truth.** The Notion Team Brain (the shared team brain plus the
    weekly company log) is the source of truth for project context, rules, open
-   loops and the company log. Before starting any work in this repo, read the
-   Team Brain: this project's page (owner, status, open loops, decisions,
-   links, next step), the rules page, and the current week's company log.
-   Notion link:
-   <https://app.notion.com/p/DRAFT-Team-brain-structure-for-Yohan-review-407d211d9d6e81b0a5c6c09f18c768ed?source=copy_link>
+   loops and the company log. It lives in the Prom13us Notion workspace.
+   Before starting any work in this repo, read the Team Brain: this project's
+   page (owner, status, open loops, decisions, links, next step), the rules
+   page, and the current week's company log.
+   - Rules page, "Team Brain: official structure and company log rules":
+     <https://app.notion.com/p/Team-Brain-official-structure-and-company-log-rules-40cf41bb40fb816aa71ce56225fc069c>
+   - Project pages: this project's row in the Projects database, which is the
+     Team Brain index:
+     <https://app.notion.com/p/Projects-9643a642423e4f008320f385702557bd>
+   - Company log: one page per week, a child page of the rules page titled
+     "Company Log, Week of YYYY-MM-DD", dated with that week's Monday (Manila
+     time). Append to the current week's page, never an older one. The first
+     weekly page, for the week of 2026-10-26:
+     <https://app.notion.com/p/Company-Log-Week-of-2026-10-26-40cf41bb40fb812da1cae13c08fe2848>
 2. **When to write back.** After you complete a task or make a change, the
    agent responsible for that task appends one entry to the current week's
    company log. That agent is you if you did the work. Read-only work does not
